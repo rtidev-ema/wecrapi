@@ -1,0 +1,14 @@
+{
+  "plu": [
+    { "id": 1, "NO_PLU": "1234567890123" },
+    { "id": 2, "NO_PLU": "9876543219876" },
+    { "id": 3, "NO_PLU": "1234512345123" }
+  ],
+  "department": [
+    { "id": 1, "NO_DEPT": "01", "C_NAME": "Almacen" },
+    { "id": 2, "NO_DEPT": "02", "C_NAME": "Bebida"  }
+  ],
+  "business": {
+      "id": 1, "name": "NATURE STORE"
+  }
+}
