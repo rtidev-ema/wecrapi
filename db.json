@@ -9,6 +9,6 @@
     { "id": 2, "NO_DEPT": "02", "C_NAME": "Bebida"  }
   ],
   "business": {
-      "id": 1, "name": "NATURE STORE"
+      "idx": "ABCDEF123456", "name": "NATURE STORE"
   }
 }
