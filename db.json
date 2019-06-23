@@ -1,6 +1,6 @@
 {
   "plu": [
-    { "id": 1, "NO_PLU": "1234567890123", "C_NAME": "COCA COLA", "P_VENTA": 123.32 }
+    { "id": 1, "NO_PLU": "1234567890123", "C_NAME": "COCA COLA", "P_VENTA": 123.32 },
     { "id": 2, "NO_PLU": "9876543219876", "C_NAME": "7 UP"     , "P_VENTA": 123.32 },
     { "id": 3, "NO_PLU": "1234512345123", "C_NAME": "QUILMES"  , "P_VENTA": 123.32 }
   ],
